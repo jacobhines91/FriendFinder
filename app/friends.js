@@ -1,7 +1,7 @@
 var friends = [
   {
-  "name":"Ahmed",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Francis",
+  "photo":"https://www.swjournal.com/wp-content/uploads/2018/11/shutterstock_1075355216.jpg",
   "scores":[
       5,
       1,

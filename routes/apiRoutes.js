@@ -1,6 +1,5 @@
 var friends = require("../app/friends.js");
 
-
 module.exports = function (app) {
     app.get("/api/friends", function (req, res) {
         return res.json(friends);
@@ -13,6 +12,7 @@ module.exports = function (app) {
             friendDifference: 1000
         }
 
+        
         var userData = req.body;
         var userScores = userData.scores;
 
